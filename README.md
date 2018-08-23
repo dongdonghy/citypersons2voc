@@ -7,5 +7,8 @@
 
 ### How to Run
 * Put the json training annotations into one directory
-* Run 
+* Run: 
+``` python
 python citypersons2voc.py --input_dir "your json annos dir" --output_dir "output pascal dir"
+```
+
